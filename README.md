@@ -1,1 +1,7 @@
-# primeiroi_3t
+# Terceiro Trimestre
+
+##
+João Pedro Silverio da Silva - Nr. 34
+
+## Conteùdo
+HTML, CSS,javaScript
